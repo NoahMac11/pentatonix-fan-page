@@ -63,6 +63,9 @@ header h1{
 	clear:both;
 	display: block;
 }
+#mobile_menu{
+	display: none;
+}
 /*Main Styles*/
 main{
     border-top: 3px solid black;
