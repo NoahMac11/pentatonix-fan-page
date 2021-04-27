@@ -63,7 +63,7 @@ header h1{
 	display: block;
 }
 #mobile_menu{
-    display: block;
+    display: none;
 }
 /*Main Styles*/
 main{
